@@ -28,7 +28,7 @@ function onchange() {
                 setTimeout(function () {
                     form.reset();
                 }, 3000);
-                console.log("ЗАЕБИСЬ");
+               
 
 
             }
